@@ -1,0 +1,169 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*header start*/
+.menu ul li a {
+	font-size: 18px;
+        padding: 0 0px !important;
+        text-align: right;
+}
+/*header end*/
+/*slider start*/
+.slider {
+    padding-bottom: 70px;
+}
+
+.slider_content {
+    margin-top: 0px;
+}
+.slider_content h1 {
+    font-weight: 700;
+    font-size: 25px;
+    /* margin-bottom: 20px; */
+}
+.slider_content h2 {
+           margin-bottom: 10px;
+}
+ .slider_icon{
+  	font-size: 30px;
+  }
+  .slider_icon li{
+  	margin-right: 25px !important;
+  }
+.cid {
+    bottom: -50px;
+}
+.cid li {
+    width: 12px;
+    height: 12px;
+    
+}
+/*slider end*/
+.c_h1{
+	
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+.c_p{
+	font-size: 16px;
+	word-spacing: 1px;
+}
+.s_icon{
+	font-size: 36px;
+}
+/*submit button start*/
+.contact{
+	padding-top: 50px;
+	padding-bottom: 70px;
+
+}
+.f-submit {
+ 
+  margin-top: 22px;
+}
+.social_icon ul{
+	list-style: none;
+	font-size: 25px;
+	font-weight: 700;
+	
+}
+.social_icon ul li a{
+	width: 40px;
+	height: 40px;
+	border-radius: 10px;
+	color: #101010;
+	background-color: #fcdb00;
+	display: block;
+	text-align: center;
+ }
+ .f_1{
+	text-align: center;
+	margin-bottom: 50px !important;
+	}
+}
+ /*Small devices (landscape phones, 576px and up)*/
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+.menu ul li a {
+        padding: 0 0px !important;
+        text-align: right;
+}
+/*header end*/
+/*slider start*/
+.slider {
+    padding-bottom: 70px;
+}
+
+.slider_content {
+    margin-top: 20px;
+}
+.cid {
+    bottom: -50px;
+}
+.cid li {
+    width: 12px;
+    height: 12px;
+    }
+/*slider end*/
+
+/*features start*/
+.features{
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+
+.m_t_60 {
+    margin-top: 30px;
+}
+.s_text{
+	text-align: center;
+}
+.contact{
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+.s_text h2 {
+    font-size: 20px;
+   margin-top: 5px;
+  margin-bottom: 10px;
+}
+.f-email{
+	margin-bottom: 20px;
+}
+.f-submit {
+ margin-top: 10px !important;
+}
+ .f_1{
+	text-align: center;
+	margin-bottom: 50px !important;
+	}
+}
+/*features end*/
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a {
+        padding: 0 0px !important;
+        text-align: right;
+}
+/*header end*/
+
+/*slider start*/
+.slider_content {
+    margin-top: 30px;
+}
+/*slider end*/
+  }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+
+
+ }	
