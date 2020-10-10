@@ -26,6 +26,9 @@
  .slider_icon{
   	font-size: 30px;
   }
+.s_text{
+	text-align: center;
+}
   .slider_icon li{
   	margin-right: 25px !important;
   }
